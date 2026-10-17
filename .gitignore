@@ -107,3 +107,14 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity project is nested in this repository
+/AT-PS5_Dev_Kit/[Ll]ibrary/
+/AT-PS5_Dev_Kit/[Tt]emp/
+/AT-PS5_Dev_Kit/[Oo]bj/
+/AT-PS5_Dev_Kit/[Bb]uild/
+/AT-PS5_Dev_Kit/[Bb]uilds/
+/AT-PS5_Dev_Kit/[Ll]ogs/
+/AT-PS5_Dev_Kit/[Uu]ser[Ss]ettings/
+/AT-PS5_Dev_Kit/[Mm]emoryCaptures/
+/AT-PS5_Dev_Kit/[Rr]ecordings/
